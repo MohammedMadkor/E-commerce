@@ -12,7 +12,8 @@
             <input type="number" class="form-control"  name="User_id" value="{{$auth->id}}" readonly style="display: none">
             </div>
 
-            <div class="mb-3">
+            <div class="mb-3">  
+            
             <input type="text" class="form-control"  name="category" value="{{$product->Category->name}}" readonly style="display: none">
             </div>
             <div class="mb-3">
