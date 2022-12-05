@@ -1,0 +1,8 @@
+@include('layouts.navbar')
+@include('layouts.header')
+@include('layouts.slider')
+@include('layouts.featureditem')
+@include('layouts.Trendigitem')
+@include('layouts.LatestBlog')
+@include('layouts.ShopByBrand')
+@include('layouts.footer')
